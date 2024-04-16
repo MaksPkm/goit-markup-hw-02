@@ -19,7 +19,7 @@ button {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -28,7 +28,7 @@ button {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
@@ -86,7 +86,7 @@ button {
         font-family: inherit;
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -98,6 +98,7 @@ button {
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        cursor: pointer;
 }
 .hero-button:hover,
 .hero-button:focus {
@@ -131,10 +132,11 @@ button {
 .t-header {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 .t-menu {
     background-color: #fff;
@@ -164,10 +166,11 @@ button {
         font-family: inherit;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 .portf-list {
     background-color: #fff;
@@ -198,12 +201,12 @@ button {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
 }
-.footeer-content {
+.footer-content {
         font-family: inherit;
         font-weight: 400;
         font-size: 16px;
